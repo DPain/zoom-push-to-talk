@@ -4,7 +4,7 @@
  Author:         D_Pain
 
  Script Function:
-	Template AutoIt script.
+	This script lets you push to talk like how it would work on Discord.
 
 #ce ----------------------------------------------------------------------------
 
