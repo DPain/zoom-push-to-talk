@@ -10,7 +10,7 @@
 
 #include <Misc.au3>
 
-Global $version = "1.0.0", $playSound = True, $debounce = False, $key = "C0" ; Backtick
+Global $version = "1.0.0", $playSound = False, $debounce = False, $key = "C0" ; Backtick
 ; Key's hexcode can be found here: https://www.autoitscript.com/autoit3/docs/libfunctions/_IsPressed.htm
 
 Func tool_tip($msg = "", $timeout = 1000)
